@@ -15,7 +15,7 @@ A Laravel 10 REST API with user authentication, roles & permissions (RBAC), user
 🚀 Installation
 
 1. Clone the repo
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Pheatra-coding/role-permission_Laravel_10.git
 
 2. Go to project folder
 cd your-repo-name
